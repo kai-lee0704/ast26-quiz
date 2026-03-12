@@ -5,7 +5,7 @@ question: |
   工程師正在比較兩種 NAND flash 技術：
   - **方案 X : SLC (Single-Level Cell)**
   - **方案 Y : QLC (Quad-Level Cell)**
-  兩種 SSD 使用相同的 controller 設計。
+  **假設兩款 SSD 的總容量相同**，且使用相同的 controller 設計。
   若考慮長期「可寫入總量(Total Bytes Written, TBW)」，以下哪一項推論最合理？
 options:
   - text: "方案 Y(QLC)通常具有較高 TBW,因為其容量較大，可以分散更多寫入。"
