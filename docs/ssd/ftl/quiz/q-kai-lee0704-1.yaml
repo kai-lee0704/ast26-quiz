@@ -17,7 +17,7 @@ options:
       mapping 尚未更新導致還指向舊資料
   - text: "block 因為斷電導致被 erase"
     explanation: |
-      block 的 erase 不會因為斷電而突然發生，而是需要對整個block施加高電壓
+      block 的 erase 不會因為斷電而突然發生，而是需要對整個 block 施加高電壓
   - text: "SSD 使用 write buffer，buffer 尚未 flush 到 NAND"
     explanation: |
       buffer 已有 flush 到 NAND，因此 NAND 裡已有新資料，只是 mapping 來不及更新
