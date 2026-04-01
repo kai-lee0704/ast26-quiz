@@ -12,7 +12,7 @@ options:
     explanation: |
       NAND 本身並無 rollback 的機制
   - text: "SSD 採用 out-of-place write 策略，但 FTL 尚未完成 mapping 的更新"
-    corret: true
+    correct: true
     explanation: |
       mapping 尚未更新導致還指向舊資料
   - text: "block 因為斷電導致被 erase"
