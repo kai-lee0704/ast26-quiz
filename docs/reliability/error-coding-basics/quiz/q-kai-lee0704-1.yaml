@@ -1,5 +1,5 @@
-author: your-github-username
-date: 2026-01-01
+author: kai-lee0704
+date: 2026-05-28
 question: |
   某ECC memory 使用 SEC-DED Hamming code，某次讀取時，實際發生了 3 個 bit flip，請問下列敘述何者正確？
 options:
